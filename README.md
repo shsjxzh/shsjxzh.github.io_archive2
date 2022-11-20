@@ -1,7 +1,7 @@
 # A website template for academics
 
-## Zihao Xu fork version change
-change
+## change of Zihao Xu forked version.
+
 ## Users
 
 Some users:
